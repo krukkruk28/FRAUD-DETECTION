@@ -14,7 +14,7 @@ The dataset used in this project contains transaction records labeled as fraudul
 1. **Data Preprocessing:** Cleaning and preprocessing the dataset for analysis.
 2. **Feature Engineering:** Selecting and engineering features that contribute significantly to the prediction of fraudulent transactions.
 3. **Model Selection:** Experimenting with different machine learning algorithms to determine the best model for the detection of fraud.
-4. **Evaluation:** Evaluating the model using metrics such as accuracy, precision, recall, and F1-score.
+4. **Evaluation:** Evaluating the model using metrics such as accuracy, ROC-AUC, precision, recall, and F1-score.
 
 ## Tools and Technologies
 - Python programming language
