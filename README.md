@@ -19,8 +19,10 @@ The dataset used in this project contains transaction records labeled as fraudul
 ## Tools and Technologies
 - Python programming language
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib
+- Imbalanced learn for minority sampling
 - Jupyter Notebook
 - Git for version control
+- Tensorflow for deep learning
 
 ## Conclusion
 The goal of this project is to develop an effective system for identifying and preventing fraudulent transactions in the credit card payment ecosystem. The successful implementation of this project can significantly reduce losses incurred due to credit card fraud.
@@ -28,5 +30,6 @@ The goal of this project is to develop an effective system for identifying and p
 ## Future Work
 Future enhancements may include:
 - Incorporating more advanced machine learning models.
+- To maximize the usage of compute resources when training
 - Real-time transaction monitoring and alerts.
 - Collaboration with financial institutions to improve the dataset and model deployment.
